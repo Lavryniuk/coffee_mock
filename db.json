@@ -2,7 +2,7 @@
   "cards": [
     {
       "id": "a1",
-      "img": "/img/mainPage/item1.png",
+      "img": "https://insanelygoodrecipes.com/wp-content/uploads/2020/07/Cup-Of-Creamy-Coffee.png",
       "title": "Solimo Coffee Beans 2 kg",
       "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "price": "10.73",
@@ -10,7 +10,7 @@
     },
     {
       "id": "a2",
-      "img": "/img/mainPage/item2.png",
+      "img": "https://st5.depositphotos.com/5266893/84361/i/450/depositphotos_843619444-stock-photo-white-espresso-cup-filled-dark.jpg",
       "title": "Presto Coffee Beans 1 kg",
       "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "price": "15.99",
@@ -18,7 +18,7 @@
     },
     {
       "id": "a3",
-      "img": "/img/mainPage/item3.png",
+      "img": "https://media.istockphoto.com/id/509141291/photo/coffee-pouring-to-cup.jpg?s=612x612&w=0&k=20&c=xY0Gb5V6VlLmO6MWeyaMJlIQ_Ebt6esxrkRTr7-jtpM=",
       "title": "AROMISTICO Coffee 1 kg",
       "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "price": "6.99",
@@ -26,7 +26,7 @@
     },
     {
       "id": "a4",
-      "img": "/img/mainPage/item1.png",
+      "img": "https://insanelygoodrecipes.com/wp-content/uploads/2020/07/Cup-Of-Creamy-Coffee.png",
       "title": "Solimo Coffee Beans 2 kg",
       "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "price": "10.73",
@@ -34,7 +34,7 @@
     },
     {
       "id": "a5",
-      "img": "/img/mainPage/item2.png",
+      "img": "https://st5.depositphotos.com/5266893/84361/i/450/depositphotos_843619444-stock-photo-white-espresso-cup-filled-dark.jpg",
       "title": "Presto Coffee Beans 1 kg",
       "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "price": "15.99",
@@ -42,7 +42,7 @@
     },
     {
       "id": "a6",
-      "img": "/img/mainPage/item3.png",
+      "img": "https://media.istockphoto.com/id/509141291/photo/coffee-pouring-to-cup.jpg?s=612x612&w=0&k=20&c=xY0Gb5V6VlLmO6MWeyaMJlIQ_Ebt6esxrkRTr7-jtpM=",
       "title": "AROMISTICO Coffee 1 kg",
       "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "price": "6.99",
