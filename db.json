@@ -47,6 +47,54 @@
       "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
       "price": "6.99",
       "country": "Kenya"
+    },
+    {
+      "id": "a7",
+      "img": "https://media.istockphoto.com/id/509141291/photo/coffee-pouring-to-cup.jpg?s=612x612&w=0&k=20&c=xY0Gb5V6VlLmO6MWeyaMJlIQ_Ebt6esxrkRTr7-jtpM=",
+      "title": "AROMISTICO Coffee 1 kg",
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": "6.99",
+      "country": "Kenya"
+    },
+    {
+      "id": "a8",
+      "img": "https://media.istockphoto.com/id/509141291/photo/coffee-pouring-to-cup.jpg?s=612x612&w=0&k=20&c=xY0Gb5V6VlLmO6MWeyaMJlIQ_Ebt6esxrkRTr7-jtpM=",
+      "title": "AROMISTICO Coffee 1 kg",
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": "6.99",
+      "country": "Kenya"
+    },
+    {
+      "id": "a9",
+      "img": "https://media.istockphoto.com/id/509141291/photo/coffee-pouring-to-cup.jpg?s=612x612&w=0&k=20&c=xY0Gb5V6VlLmO6MWeyaMJlIQ_Ebt6esxrkRTr7-jtpM=",
+      "title": "AROMISTICO Coffee 1 kg",
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": "6.99",
+      "country": "Kenya"
+    },
+    {
+      "id": "a10",
+      "img": "https://media.istockphoto.com/id/509141291/photo/coffee-pouring-to-cup.jpg?s=612x612&w=0&k=20&c=xY0Gb5V6VlLmO6MWeyaMJlIQ_Ebt6esxrkRTr7-jtpM=",
+      "title": "AROMISTICO Coffee 1 kg",
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": "6.99",
+      "country": "Kenya"
+    },
+    {
+      "id": "a11",
+      "img": "https://media.istockphoto.com/id/509141291/photo/coffee-pouring-to-cup.jpg?s=612x612&w=0&k=20&c=xY0Gb5V6VlLmO6MWeyaMJlIQ_Ebt6esxrkRTr7-jtpM=",
+      "title": "AROMISTICO Coffee 1 kg",
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": "6.99",
+      "country": "Kenya"
+    },
+    {
+      "id": "a12",
+      "img": "https://media.istockphoto.com/id/509141291/photo/coffee-pouring-to-cup.jpg?s=612x612&w=0&k=20&c=xY0Gb5V6VlLmO6MWeyaMJlIQ_Ebt6esxrkRTr7-jtpM=",
+      "title": "AROMISTICO Coffee 1 kg",
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "price": "6.99",
+      "country": "Kenya"
     }
   ]
 }
